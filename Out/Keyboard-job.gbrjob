@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "6.0.6-3a73a75311~116~ubuntu21.10.1"
     },
-    "CreationDate": "2022-10-26T18:33:10+02:00"
+    "CreationDate": "2022-10-28T18:02:50+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Keyboard",
       "GUID": "4b657962-6f61-4726-942e-6b696361645f",
-      "Revision": "rev?"
+      "Revision": "v1"
     },
     "Size": {
       "X": 285.8437,
@@ -27,7 +27,9 @@
       "PadToPad": 0.0,
       "PadToTrack": 0.0,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.25
+      "MinLineWidth": 0.25,
+      "TrackToRegion": 0.508,
+      "RegionToRegion": 0.508
     }
   ],
   "FilesAttributes": [
