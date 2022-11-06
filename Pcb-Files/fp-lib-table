@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "MountingHole")(type "KiCad")(uri "/home/BeemYo/Documents/Pcb/MountingHole.pretty")(options "")(descr ""))
+)

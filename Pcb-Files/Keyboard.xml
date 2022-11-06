@@ -1,0 +1,2015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/BeemYo/Documents/Pcb/Keyboard/Keyboard.kicad_sch</source>
+    <date>za 29 okt 2022 17:26:08 CEST</date>
+    <tool>Eeschema 6.0.6-3a73a75311~116~ubuntu21.10.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Keyboard.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ebab906-759f-4ff1-a1b4-dd4b46e85ea5</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f87d792-4c9e-4971-ade0-585149b3a8b0</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e8b8df0-b876-4809-8ca7-38e3b23e290a</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95fd87c5-fcd4-4633-9635-7ce2bc16cd5b</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06d07922-57b3-4ec0-85ed-dce0a2a94e14</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7143bab2-5509-4ef5-b19c-6210b92a5634</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0d07d6a-39a9-4d87-ae6f-e974faae4736</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36f0ee53-587a-46f2-a2c5-3c9fb2ab93f9</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db7af9b8-c2bc-4e67-9811-03fb513d4ead</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6cbde2c5-5050-4a1c-88f4-761312fdca37</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3224cfe2-8a5f-425f-917e-8623ca7623cf</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79c390a2-a115-484a-aca7-422d9303a842</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eceb3a38-f3c3-47fd-99e8-dd1a6ceb7265</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>afd047c9-5286-4577-8a74-b654777c6d59</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd6fde3a-58ef-41a2-a32c-a64bb786804e</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6041a721-cddf-4279-9460-794b9b90d4cf</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f61b0226-b01f-48ab-bd5f-ea215e93f1fa</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6d6c784-31fc-4b71-aa5a-214bd9abe722</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7925e031-2a2b-44f5-b8fd-8ce1f5ad31bb</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9671fca0-45cd-4132-b41f-f1ed3f71e49a</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b440f94-97aa-4485-9757-1de39ee26233</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdd7a1b6-85ac-4889-ae26-46a0c90e982c</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2440eaf5-dd3e-4ffb-bb65-5256b47a4c3a</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a94ceeb-d5ea-4986-ab73-8045e8ed18fb</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>522ca752-546e-4213-9f04-8b78130816fa</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>917c1107-a072-4313-96e8-d328f6c09a26</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb761aee-9091-4ca3-8746-27e14701b5b9</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c02b1bd5-ccff-4af7-8b7c-8063e9336802</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb9a5e78-db24-4d42-9ef1-0453d52672ee</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40b80cc5-a21d-4c20-9790-d5ec2ff6afaf</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2efa2139-7e50-47c8-9bed-bf794865bd89</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75fd23f5-59cc-4ba4-8a75-f0a40d9ae02f</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0152f38-bc19-4f98-b783-8c7ba8b0f9e0</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bccefe2b-74cd-454f-8271-5a0ab9458f83</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00105877-9b43-4c22-82be-36854ea4a794</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbcee1ee-0b40-40fd-82be-c8847391ef8f</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54f38e6e-d15f-4e53-a30f-a2454754cc40</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>691c7e5e-5007-45a4-9b84-410ca3f580b4</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de66986f-c4be-4a79-a1ce-1b83d0c27479</tstamps>
+    </comp>
+    <comp ref="D40">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6acb632-2aa2-4cfe-a0ea-1c04bf9e55c0</tstamps>
+    </comp>
+    <comp ref="D41">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>845b2159-bbc8-4ed1-aae0-5bda75e291c4</tstamps>
+    </comp>
+    <comp ref="D42">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0a02ed0-2d66-49fd-8c6a-e8561827423a</tstamps>
+    </comp>
+    <comp ref="D43">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>586da050-b492-4675-b60e-a50068a49502</tstamps>
+    </comp>
+    <comp ref="D44">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35296664-9855-43eb-98ad-0c7e31ebfe14</tstamps>
+    </comp>
+    <comp ref="D45">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3716886a-f7a1-4808-9b6c-909fb03489fa</tstamps>
+    </comp>
+    <comp ref="D46">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88dd7f11-df23-49b7-b449-aa654f768cbb</tstamps>
+    </comp>
+    <comp ref="D47">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1286687-711f-447f-84a0-839e871929c6</tstamps>
+    </comp>
+    <comp ref="D48">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f62a5b9-7eda-4cfa-90d9-cc7972939374</tstamps>
+    </comp>
+    <comp ref="D49">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>864bdc6c-909d-4bac-830e-d42d07d65ca1</tstamps>
+    </comp>
+    <comp ref="D50">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a27c463-df55-4d35-b245-eb40612e42a9</tstamps>
+    </comp>
+    <comp ref="D51">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c12470d-425c-4921-bf15-51a1225f19af</tstamps>
+    </comp>
+    <comp ref="D52">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa30dcbc-b7e9-4b68-be9a-a4f762f89beb</tstamps>
+    </comp>
+    <comp ref="D53">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71bd0687-8ebe-454d-83af-29baf77c2652</tstamps>
+    </comp>
+    <comp ref="D54">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>893bf0e2-2073-40e8-8b19-8a85f81b2c8b</tstamps>
+    </comp>
+    <comp ref="D55">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5257b241-6275-4d83-aee3-d0789e44405c</tstamps>
+    </comp>
+    <comp ref="D56">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96619409-62aa-46de-9811-03e8cfffc1c8</tstamps>
+    </comp>
+    <comp ref="D57">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ef18407-fdc3-4649-8484-9b68e79f2647</tstamps>
+    </comp>
+    <comp ref="D58">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9ab8b60-65fd-4cc4-856b-3acd9d9b4498</tstamps>
+    </comp>
+    <comp ref="D59">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>905a5ae3-a89d-4846-a4d4-f3b9aacd826a</tstamps>
+    </comp>
+    <comp ref="D60">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e04f651-9025-4dae-bb52-3b8518313668</tstamps>
+    </comp>
+    <comp ref="D61">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0e96717-8b41-4b1c-96af-aade3f705261</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9c62587-b0a8-4cd1-8a52-6d6490c4667a</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b7fb8f6-958e-4ee3-a3af-a39ef1d47170</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89f27825-11fd-4e32-ac10-4e7a8c91af0e</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36ecabf2-ee12-4842-95bd-70e1b4e10f91</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d6fdc0e-c73d-4649-b8ff-be861db65ab4</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3667c47-74f2-460b-aaf3-963270e7c861</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56b56b89-8adc-42ef-8b37-ea2d7ba6c223</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95dfbd33-eab0-4b81-a400-0b0cb6f89751</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f3181db-7644-4bb3-ba8b-9bc48eb24c6a</tstamps>
+    </comp>
+    <comp ref="SW10">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1b0a1a6-59e1-4c23-af64-0aca648162d1</tstamps>
+    </comp>
+    <comp ref="SW11">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8c17746-9656-452d-95bb-32cbb8299dfc</tstamps>
+    </comp>
+    <comp ref="SW12">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>827dbdb1-342a-412d-9ceb-6195e10d4980</tstamps>
+    </comp>
+    <comp ref="SW13">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>436280f0-a7af-4cf8-92e2-209de8439be0</tstamps>
+    </comp>
+    <comp ref="SW14">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1aa13273-d9bc-49dd-a569-245f64442352</tstamps>
+    </comp>
+    <comp ref="SW15">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1.5u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac935864-41fa-4a14-994b-917a083da822</tstamps>
+    </comp>
+    <comp ref="SW16">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6671ea0c-cb5f-40fe-b15e-334ac0085a98</tstamps>
+    </comp>
+    <comp ref="SW17">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56aa4a80-21c3-4031-a3e6-3196ad1c1a94</tstamps>
+    </comp>
+    <comp ref="SW18">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>638a14f6-5ae6-4fa3-b8ee-c97c54605c9f</tstamps>
+    </comp>
+    <comp ref="SW19">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5efe525-b261-4642-992f-177c703536ba</tstamps>
+    </comp>
+    <comp ref="SW20">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63df5f23-b9d7-48f2-b73e-10aa1d3f54d7</tstamps>
+    </comp>
+    <comp ref="SW21">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>115ea8e3-53d6-4034-b371-3015af34c0c5</tstamps>
+    </comp>
+    <comp ref="SW22">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93192806-5b0b-41a2-ba89-4436651c197f</tstamps>
+    </comp>
+    <comp ref="SW23">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88806614-4997-476e-be5d-561c75ab0669</tstamps>
+    </comp>
+    <comp ref="SW24">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ee3215a-ebbb-4f82-9bf8-5e6d7daa5fd1</tstamps>
+    </comp>
+    <comp ref="SW25">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67ce5f31-86e3-42da-ae6f-4799fe018801</tstamps>
+    </comp>
+    <comp ref="SW26">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f42e338-85f8-4f44-86a8-016983e78324</tstamps>
+    </comp>
+    <comp ref="SW27">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dec95a80-f5bb-44d2-b364-acef443fd2f2</tstamps>
+    </comp>
+    <comp ref="SW28">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1.5u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad910340-8cdb-418b-82a5-d2501d616bb8</tstamps>
+    </comp>
+    <comp ref="SW29">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1.75u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>badb97cc-9fd5-4d64-b7a2-805f4acefb03</tstamps>
+    </comp>
+    <comp ref="SW30">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e614c4e7-5590-4ac8-a04e-68657fd366aa</tstamps>
+    </comp>
+    <comp ref="SW31">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc124b73-0ac0-4c31-adb6-fb618b1549ba</tstamps>
+    </comp>
+    <comp ref="SW32">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>889cdc40-650f-4f20-a7b7-37cb7b9939ae</tstamps>
+    </comp>
+    <comp ref="SW33">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30242605-cd79-48fd-b4cd-732a01b1b967</tstamps>
+    </comp>
+    <comp ref="SW34">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d25333d5-81f4-4b7e-93ef-821704dccc16</tstamps>
+    </comp>
+    <comp ref="SW35">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84a55dd4-01c7-4c7d-9aa2-adaeeaa18e7a</tstamps>
+    </comp>
+    <comp ref="SW36">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98def6a9-115b-4d57-a039-2cce6b582ea9</tstamps>
+    </comp>
+    <comp ref="SW37">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dfecaed0-de23-4e3c-8130-c5ff0315baf0</tstamps>
+    </comp>
+    <comp ref="SW38">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3d51680-67c9-4db8-9d59-b47455723c4b</tstamps>
+    </comp>
+    <comp ref="SW39">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4229974e-8646-48ee-a0e0-bda6f63c1147</tstamps>
+    </comp>
+    <comp ref="SW40">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>361ec39e-faba-48dc-a62e-c4495a3a6f5e</tstamps>
+    </comp>
+    <comp ref="SW41">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10d7547d-3d69-46f6-bd49-902be56adc7f</tstamps>
+    </comp>
+    <comp ref="SW42">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87cbd84b-aaa8-4b38-8eb6-8be2a50c19d4</tstamps>
+    </comp>
+    <comp ref="SW43">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54117081-5035-48c2-ba85-14eae1c58f95</tstamps>
+    </comp>
+    <comp ref="SW44">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>898975c8-be7c-4617-89ed-225e3957f764</tstamps>
+    </comp>
+    <comp ref="SW45">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae7c23d8-b491-4b67-9471-4f98b899618d</tstamps>
+    </comp>
+    <comp ref="SW46">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>075f43aa-ce51-480d-bc07-be07547c5062</tstamps>
+    </comp>
+    <comp ref="SW47">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f86a8a1-6472-4fca-ba3d-a3c8c7f7552a</tstamps>
+    </comp>
+    <comp ref="SW48">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73019a33-0fc0-4c83-a71e-9c30dd4d2a4a</tstamps>
+    </comp>
+    <comp ref="SW49">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f382d2ce-be40-4dba-8642-80d7272fde78</tstamps>
+    </comp>
+    <comp ref="SW50">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8540753-9539-4907-8337-9d13b0706096</tstamps>
+    </comp>
+    <comp ref="SW51">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>37f7ac5d-767d-4548-b0f2-4fd63b8cd6ad</tstamps>
+    </comp>
+    <comp ref="SW52">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b027773-192f-420f-95b2-88a994e4a5c1</tstamps>
+    </comp>
+    <comp ref="SW53">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d6ab7e8-74f9-4992-bb68-e63e5752a335</tstamps>
+    </comp>
+    <comp ref="SW54">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1.25u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8bcf573a-757a-4c1d-97c3-bf8fb2e430c6</tstamps>
+    </comp>
+    <comp ref="SW55">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1.25u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0572b4f0-6a06-443b-b062-502cf4af0614</tstamps>
+    </comp>
+    <comp ref="SW56">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1.25u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>270990e7-e4ef-47b0-b889-fed129e89bd0</tstamps>
+    </comp>
+    <comp ref="SW57">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a463956-db54-4eb8-9fc1-49672a8ad8f2</tstamps>
+    </comp>
+    <comp ref="SW58">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1.25u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22981d8f-777f-4cff-9496-20455d98bd91</tstamps>
+    </comp>
+    <comp ref="SW59">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1.25u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d761279-bb6d-406d-9429-09f7403590d9</tstamps>
+    </comp>
+    <comp ref="SW60">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1.25u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9a8bdd8-fe75-4932-8a86-acc3925da029</tstamps>
+    </comp>
+    <comp ref="SW61">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1.25u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02b20f40-3fd7-4842-aa4a-e902e2c4c705</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>Pico</value>
+      <footprint>MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH</footprint>
+      <libsource lib="MCU_RaspberryPi_and_Boards" part="Pico" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>346c75c6-db4a-4196-b6f6-dd2d336b9372</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Diode" part="1N4148W">
+      <description>75V 0.15A Fast Switching Diode, SOD-123</description>
+      <docs>https://www.vishay.com/docs/85748/1n4148w.pdf</docs>
+      <footprints>
+        <fp>D*SOD?123*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148W</field>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet">https://www.vishay.com/docs/85748/1n4148w.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_RaspberryPi_and_Boards" part="Pico">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Pico</field>
+        <field name="Footprint">RPi_Pico:RPi_Pico_SMD_TH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GPIO0" type="bidirectional"/>
+        <pin num="2" name="GPIO1" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GPIO2" type="bidirectional"/>
+        <pin num="5" name="GPIO3" type="bidirectional"/>
+        <pin num="6" name="GPIO4" type="bidirectional"/>
+        <pin num="7" name="GPIO5" type="bidirectional"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="GPIO6" type="bidirectional"/>
+        <pin num="10" name="GPIO7" type="bidirectional"/>
+        <pin num="11" name="GPIO8" type="bidirectional"/>
+        <pin num="12" name="GPIO9" type="bidirectional"/>
+        <pin num="13" name="GND" type="power_in"/>
+        <pin num="14" name="GPIO10" type="bidirectional"/>
+        <pin num="15" name="GPIO11" type="bidirectional"/>
+        <pin num="16" name="GPIO12" type="bidirectional"/>
+        <pin num="17" name="GPIO13" type="bidirectional"/>
+        <pin num="18" name="GND" type="power_in"/>
+        <pin num="19" name="GPIO14" type="bidirectional"/>
+        <pin num="20" name="GPIO15" type="bidirectional"/>
+        <pin num="21" name="GPIO16" type="bidirectional"/>
+        <pin num="22" name="GPIO17" type="bidirectional"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="GPIO18" type="bidirectional"/>
+        <pin num="25" name="GPIO19" type="bidirectional"/>
+        <pin num="26" name="GPIO20" type="bidirectional"/>
+        <pin num="27" name="GPIO21" type="bidirectional"/>
+        <pin num="28" name="GND" type="power_in"/>
+        <pin num="29" name="GPIO22" type="bidirectional"/>
+        <pin num="30" name="RUN" type="input"/>
+        <pin num="31" name="GPIO26_ADC0" type="bidirectional"/>
+        <pin num="32" name="GPIO27_ADC1" type="bidirectional"/>
+        <pin num="33" name="AGND" type="power_in"/>
+        <pin num="34" name="GPIO28_ADC2" type="bidirectional"/>
+        <pin num="35" name="ADC_VREF" type="power_in"/>
+        <pin num="36" name="3V3" type="power_in"/>
+        <pin num="37" name="3V3_EN" type="input"/>
+        <pin num="38" name="GND" type="bidirectional"/>
+        <pin num="39" name="VSYS" type="power_in"/>
+        <pin num="40" name="VBUS" type="power_in"/>
+        <pin num="41" name="SWCLK" type="input"/>
+        <pin num="42" name="GND" type="power_in"/>
+        <pin num="43" name="SWDIO" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="marbastlib-mx" part="MX_SW_solder">
+      <description>Push button switch, normally open, two pins, 45° tilted</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">MX_SW_solder</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_1u</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Diode">
+      <uri>${KICAD_SYMBOL_DIR}/Diode.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Col1">
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW15" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW29" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW42" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW54" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GPIO5" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="Col2">
+      <node ref="SW16" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW30" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW43" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW55" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="GPIO6" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="Col3">
+      <node ref="SW17" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW31" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW44" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW56" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="GPIO7" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="Col4">
+      <node ref="SW18" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW32" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW45" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW57" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="Col5">
+      <node ref="SW19" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW33" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW46" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="Col6">
+      <node ref="SW20" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW34" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW47" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="Col7">
+      <node ref="SW21" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW35" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW48" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GPIO11" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="Col8">
+      <node ref="SW22" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW36" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW49" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="GPIO12" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="Col9">
+      <node ref="SW23" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW37" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW50" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW58" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="GPIO13" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="Col10">
+      <node ref="SW10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW24" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW38" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW51" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW59" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="GPIO14" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="Col11">
+      <node ref="SW11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW25" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW39" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW52" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW60" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="GPIO15" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="Col12">
+      <node ref="SW12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW26" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW40" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW53" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW61" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="GPIO16" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="Col13">
+      <node ref="SW13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW27" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW41" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="GPIO17" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="Col14">
+      <node ref="SW14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW28" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="GPIO18" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="GND">
+      <node ref="U1" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="18" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="23" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="28" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="38" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U1" pin="8" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="16" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW10" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW11" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW12" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW13" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW14" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW15" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW16" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW17" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW18" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW19" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW20" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW21" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW22" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW23" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D24-Pad2)">
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW24" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D25-Pad2)">
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW25" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW26" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D27-Pad2)">
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW27" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D28-Pad2)">
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW28" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D29-Pad2)">
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW29" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D30-Pad2)">
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW30" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D31-Pad2)">
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW31" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D32-Pad2)">
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW32" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D33-Pad2)">
+      <node ref="D33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW33" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D34-Pad2)">
+      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW34" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D35-Pad2)">
+      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW35" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D36-Pad2)">
+      <node ref="D36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW36" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D37-Pad2)">
+      <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW37" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D38-Pad2)">
+      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW38" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D39-Pad2)">
+      <node ref="D39" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW39" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D40-Pad2)">
+      <node ref="D40" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW40" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D41-Pad2)">
+      <node ref="D41" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW41" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D42-Pad2)">
+      <node ref="D42" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW42" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D43-Pad2)">
+      <node ref="D43" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW43" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D44-Pad2)">
+      <node ref="D44" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW44" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D45-Pad2)">
+      <node ref="D45" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW45" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D46-Pad2)">
+      <node ref="D46" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW46" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D47-Pad2)">
+      <node ref="D47" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW47" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D48-Pad2)">
+      <node ref="D48" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW48" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D49-Pad2)">
+      <node ref="D49" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW49" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D50-Pad2)">
+      <node ref="D50" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW50" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(D51-Pad2)">
+      <node ref="D51" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW51" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(D52-Pad2)">
+      <node ref="D52" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW52" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(D53-Pad2)">
+      <node ref="D53" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW53" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(D54-Pad2)">
+      <node ref="D54" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW54" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(D55-Pad2)">
+      <node ref="D55" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW55" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(D56-Pad2)">
+      <node ref="D56" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW56" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(D57-Pad2)">
+      <node ref="D57" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW57" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(D58-Pad2)">
+      <node ref="D58" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW58" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(D59-Pad2)">
+      <node ref="D59" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW59" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(D60-Pad2)">
+      <node ref="D60" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW60" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(D61-Pad2)">
+      <node ref="D61" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW61" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="77" name="Row1">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GPIO0" pintype="bidirectional"/>
+    </net>
+    <net code="78" name="Row2">
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GPIO1" pintype="bidirectional"/>
+    </net>
+    <net code="79" name="Row3">
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D36" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D40" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D41" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GPIO2" pintype="bidirectional"/>
+    </net>
+    <net code="80" name="Row4">
+      <node ref="D42" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D43" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D44" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D45" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D46" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D47" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D48" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D49" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D50" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D51" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D52" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D53" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GPIO3" pintype="bidirectional"/>
+    </net>
+    <net code="81" name="Row5">
+      <node ref="D54" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D55" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D56" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D57" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D58" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D59" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D60" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D61" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="GPIO4" pintype="bidirectional"/>
+    </net>
+    <net code="82" name="unconnected-(U1-Pad25)">
+      <node ref="U1" pin="25" pinfunction="GPIO19" pintype="bidirectional"/>
+    </net>
+    <net code="83" name="unconnected-(U1-Pad26)">
+      <node ref="U1" pin="26" pinfunction="GPIO20" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="unconnected-(U1-Pad27)">
+      <node ref="U1" pin="27" pinfunction="GPIO21" pintype="bidirectional"/>
+    </net>
+    <net code="85" name="unconnected-(U1-Pad29)">
+      <node ref="U1" pin="29" pinfunction="GPIO22" pintype="bidirectional"/>
+    </net>
+    <net code="86" name="unconnected-(U1-Pad30)">
+      <node ref="U1" pin="30" pinfunction="RUN" pintype="input"/>
+    </net>
+    <net code="87" name="unconnected-(U1-Pad31)">
+      <node ref="U1" pin="31" pinfunction="GPIO26_ADC0" pintype="bidirectional"/>
+    </net>
+    <net code="88" name="unconnected-(U1-Pad32)">
+      <node ref="U1" pin="32" pinfunction="GPIO27_ADC1" pintype="bidirectional"/>
+    </net>
+    <net code="89" name="unconnected-(U1-Pad33)">
+      <node ref="U1" pin="33" pinfunction="AGND" pintype="power_in"/>
+    </net>
+    <net code="90" name="unconnected-(U1-Pad34)">
+      <node ref="U1" pin="34" pinfunction="GPIO28_ADC2" pintype="bidirectional"/>
+    </net>
+    <net code="91" name="unconnected-(U1-Pad35)">
+      <node ref="U1" pin="35" pinfunction="ADC_VREF" pintype="power_in"/>
+    </net>
+    <net code="92" name="unconnected-(U1-Pad36)">
+      <node ref="U1" pin="36" pinfunction="3V3" pintype="power_in"/>
+    </net>
+    <net code="93" name="unconnected-(U1-Pad37)">
+      <node ref="U1" pin="37" pinfunction="3V3_EN" pintype="input"/>
+    </net>
+    <net code="94" name="unconnected-(U1-Pad39)">
+      <node ref="U1" pin="39" pinfunction="VSYS" pintype="power_in"/>
+    </net>
+    <net code="95" name="unconnected-(U1-Pad40)">
+      <node ref="U1" pin="40" pinfunction="VBUS" pintype="power_in"/>
+    </net>
+    <net code="96" name="unconnected-(U1-Pad41)">
+      <node ref="U1" pin="41" pinfunction="SWCLK" pintype="input"/>
+    </net>
+    <net code="97" name="unconnected-(U1-Pad42)">
+      <node ref="U1" pin="42" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="98" name="unconnected-(U1-Pad43)">
+      <node ref="U1" pin="43" pinfunction="SWDIO" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>
